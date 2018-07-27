@@ -1,0 +1,7 @@
+func welcome(a, b, c) {
+    print(8)
+}
+
+func say(text) {
+    print(text)
+}
